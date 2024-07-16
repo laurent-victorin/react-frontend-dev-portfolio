@@ -1,0 +1,243 @@
+{
+  "basic_info": {
+    "name": "Laurent VICTORIN",
+    "titles": [
+      "Front-end Developer",
+      "Fullstack Developer",
+      "3D Graphic Designer",
+      "Illustrator of Individual Houses"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "https://www.linkedin.com/in/laurent-victorin-76886372/"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/laurent-victorin"
+      },
+      {
+        "icon": "mdi:facebook",
+        "url": "https://www.facebook.com/laurent.victorin"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "About me",
+    "greeting": "Hi",
+    "content": " 👋 As a certified Web and Mobile Web Developer (DWWM Professional Title), I specialize in Fullstack development, enabling me to design and create most websites and applications. Based in Bruges, I am available for on-site or remote work. My skills encompass website creation, application development, graphic design, 3D modeling, as well as architecture and house construction. With a strong background in media & communication, project management, and sports association management, I provide professional and creative support for your digital projects.",
+    "tech_stacks": ["devicon:react", "devicon:nodejs", "devicon:tailwindcss"]
+  },
+  "projects": {
+    "title": "projects",
+    "projects": [
+      {
+        "title": "Infographist 3D",
+        "startDate": "2013-2023",
+        "description": "As a 2D-3D graphic designer for over 10 years, I created 3D perspectives of individual houses in a design office for a home builder. This included exterior views, interior views, videos, sales plans, and building permit plans. I primarily used Cinema 4D, Lumion, Photoshop, and more.",
+        "images": [
+          "images/portfolio/persp3d/lumion2.png",
+          "images/portfolio/persp3d/projects_3D_01.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "simple-icons:cinema4d",
+            "name": "Cinema 4D"
+          },
+          {
+            "class": "mdi:video-box",
+            "name": "Lumion"
+          },
+          {
+            "class": "simple-icons:adobephotoshop",
+            "name": "Photoshop"
+          }
+        ]
+      },
+      {
+        "title": "Dr. Concept 33",
+        "startDate": "2024",
+        "description": "Showcase website project, presenting the services and works of an architectural drawing studio. The site is built with React, Tailwind, and NodeJs, and is connected to a MySQL database. The website is responsive, allowing the studio to showcase their projects, facilitate contact, and enable clients to upload their own projects and modify their services.",
+        "images": [
+          "images/portfolio/drconcept/logo_drconcept33.jpg",
+          "images/portfolio/drconcept/Real_07.webp",
+          "images/portfolio/drconcept/Presta_07.webp"
+        ],
+        "url": "https://dr-concept.fr/",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "mdi:tailwind",
+            "name": "Tailwind"
+          },
+          {
+            "class": "mdi:nodejs",
+            "name": "NodeJs"
+          },
+          {
+            "class": "fontisto:mysql",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "O'Caritatif",
+        "startDate": "2024",
+        "description": "Project carried out as part of our training for a charitable association. The site is built with React, TypeScript, Tailwind, NodeJs, and PostgreSQL. It allows the association to present itself, facilitate contact, accept donations, and register for events.",
+        "images": [
+          "images/portfolio/ocaritatif/002.webp",
+          "images/portfolio/ocaritatif/003.webp"
+        ],
+        "url": "https://github.com/orgs/O-clock-Kimchi/teams/o-caritatif/repositories",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "mdi:tailwind",
+            "name": "Tailwind"
+          },
+          {
+            "class": "mdi:nodejs",
+            "name": "NodeJs"
+          },
+          {
+            "class": "simple-icons:postgresql",
+            "name": "PostgreSQL"
+          }
+        ]
+      },
+      {
+        "title": "US Bouscat Judo",
+        "startDate": "2024",
+        "description": "Comprehensive sports club management application that handles registrations, users, members, competition entries and tracking, results, achievements, registration files, online payments, invoicing, and more. The site is built with React, Tailwind, and NodeJs, and is connected to a MySQL database. The website is responsive and allows for the management of all club activities.",
+        "images": [
+          "images/portfolio/usbjudo/capture_usbouscat.png",
+          "images/portfolio/usbjudo/capture_usbouscat3.png",
+          "images/portfolio/usbjudo/capture_usbouscat2.png"
+        ],
+        "url": "https://www.usbouscat-judo.com/",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "mdi:tailwind",
+            "name": "Tailwind"
+          },
+          {
+            "class": "mdi:nodejs",
+            "name": "NodeJs"
+          },
+          {
+            "class": "fontisto:mysql",
+            "name": "MySql"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "teenyicons:css3-solid",
+        "level": "95"
+      },
+            {
+        "name": "React",
+        "class": "mdi:react",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "teenyicons:typescript-solid",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "teenyicons:javascript-solid",
+        "level": "70"
+      },
+      {
+        "name": "NodeJs",
+        "class": "teenyicons:nodejs-solid",
+        "level": "70"
+      },
+            {
+        "name": "Tailwind",
+        "class": "mdi:tailwind",
+        "level": "75"
+      },
+      {
+        "name": "Sass",
+        "class": "la:sass",
+        "level": "75"
+      },
+      {
+        "name": "MySql",
+        "class": "fontisto:mysql",
+        "level": "60"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "simple-icons:postgresql",
+        "level": "60"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experiences": [
+      {
+        "company": "Nicolas Constructions",
+        "title": "Infographiste 2D-3D, Bureau d'étude",
+        "years": "2013-2023",
+        "mainTech": "Communication & Infographies 3D",
+        "mainTechIcon": "tdesign:logo-cinema4d",
+        "technologies": [
+          "Photoshop",
+          "After Effects",
+          "Première Pro",
+          "Cinéma 4d",
+          "Lumion"
+        ]
+      },
+      {
+        "company": "Ecole O'Clock",
+        "title": "Formation Développeur Web et Web Mobile",
+        "years": "11.2023 - 05.2024",
+        "mainTech": "Fullstack",
+        "mainTechIcon": "mdi:diploma-outline",
+        "technologies": ["HTML 5", "CSS 3", "Javascript", "NodeJs", "Express", "EJS", "React", "TypeScript", "Tailwind", "MySql", "PostgreSQL"]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "content": "Do you have a project or a question? Feel free to contact me",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Content",
+      "send": "Send"
+    }
+  },
+  "copyright": "© Copyright Laurent VICTORIN. All rights reserved."
+}

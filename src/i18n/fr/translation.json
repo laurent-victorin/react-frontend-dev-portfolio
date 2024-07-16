@@ -1,0 +1,243 @@
+{
+  "basic_info": {
+    "name": "Laurent VICTORIN",
+    "titles": [
+      "Développeur Front-end",
+      "Développeur Fullstack",
+      "Infographiste 3D",
+      "Illustrateur Maisons Individuelles"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "https://www.linkedin.com/in/laurent-victorin-76886372/"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/laurent-victorin"
+      },
+      {
+        "icon": "mdi:facebook",
+        "url": "https://www.facebook.com/laurent.victorin"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "A Propos de Moi",
+    "greeting": "Bonjour",
+    "content": "👋 Développeur Web et Web Mobile diplômé (Titre Professionnel DWWM), je suis spécialisé en développement Fullstack, capable de concevoir et de réaliser des sites web et des applications. Basé à Bruges, je suis disponible pour des missions sur site ou en télétravail. Mes compétences couvrent la création de sites web, d'applications, l'infographie, la modélisation 3D, ainsi que l'architecture et la construction de maisons. Fort de mon expérience en media & communication, gestion de projets et gestion d'associations sportives, je vous accompagne dans la réalisation de vos projets numériques avec professionnalisme et créativité.",
+    "tech_stacks": ["devicon:react", "devicon:nodejs", "devicon:tailwindcss"]
+  },
+  "projects": {
+    "title": "Projets",
+    "projects": [
+      {
+        "title": "Infographies 3D",
+        "startDate": "2013-2023",
+        "description": "Infographiste 2D-3D pendant plus de 10 ans, je réalisais des perspectives 3D de maisons individuelles, dans un bureau d'étude chez un constructeur de maisons. Vues extérieures, intérieures, vidéo, plans de vente, plans de permis de construire, ... J'ai utilisé principalement Cinema 4D, Lumion, Photoshop, ...",
+        "images": [
+          "images/portfolio/persp3d/lumion2.png",
+          "images/portfolio/persp3d/projects_3D_01.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "simple-icons:cinema4d",
+            "name": "Cinema 4D"
+          },
+          {
+            "class": "mdi:video-box",
+            "name": "Lumion"
+          },
+          {
+            "class": "simple-icons:adobephotoshop",
+            "name": "Photoshop"
+          }
+        ]
+      },
+      {
+        "title": "Dr. Concept 33",
+        "startDate": "2024",
+        "description": "Projet de site internet vitrine, présentant les services et réalisations d'un atelier de dessin en architecture. Le site est réalisé en React, Tailwind et NodeJs. Il est relié à une base de données MySql. Le site est responsive et permet de présenter les réalisations de l'atelier, de prendre contact et de permettre au client d'alimenter ses réalisations et modifier ses services.",
+        "images": [
+          "images/portfolio/drconcept/logo_drconcept33.jpg",
+          "images/portfolio/drconcept/Real_07.webp",
+          "images/portfolio/drconcept/Presta_07.webp"
+        ],
+        "url": "https://dr-concept.fr/",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "mdi:tailwind",
+            "name": "Tailwind"
+          },
+          {
+            "class": "mdi:nodejs",
+            "name": "NodeJs"
+          },
+          {
+            "class": "fontisto:mysql",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "O'Caritatif",
+        "startDate": "2024",
+        "description": "Projet réalisé dans le cadre de notre formation pour une association caritative. Le site est réalisé en React, TypeScript, Tailwind, NodeJs et PostgreSQL. Il permet de présenter l'association, de prendre contact, de faire des dons et de s'inscrire à des événements.",
+        "images": [
+          "images/portfolio/ocaritatif/002.webp",
+          "images/portfolio/ocaritatif/003.webp"
+        ],
+        "url": "https://github.com/orgs/O-clock-Kimchi/teams/o-caritatif/repositories",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "mdi:tailwind",
+            "name": "Tailwind"
+          },
+          {
+            "class": "mdi:nodejs",
+            "name": "NodeJs"
+          },
+          {
+            "class": "simple-icons:postgresql",
+            "name": "PostgreSQL"
+          }
+        ]
+      },
+      {
+        "title": "US Bouscat Judo",
+        "startDate": "2024",
+        "description": "Application complète de gestion de club sportif gérant à la fois les inscriptions, les utilisateurs, adhérents, inscriptions et suivis des compétitions, résultats, palmarès, dossier d'inscriptions, paiement en ligne, facturation, ... Le site est réalisé en React, Tailwind et NodeJs. Il est relié à une base de données MySql. Le site est responsive et permet de gérer l'ensemble des activités du club.",
+        "images": [
+          "images/portfolio/usbjudo/capture_usbouscat.png",
+          "images/portfolio/usbjudo/capture_usbouscat3.png",
+          "images/portfolio/usbjudo/capture_usbouscat2.png"
+        ],
+        "url": "https://www.usbouscat-judo.com/",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "mdi:tailwind",
+            "name": "Tailwind"
+          },
+          {
+            "class": "mdi:nodejs",
+            "name": "NodeJs"
+          },
+          {
+            "class": "fontisto:mysql",
+            "name": "MySql"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "teenyicons:css3-solid",
+        "level": "95"
+      },
+            {
+        "name": "React",
+        "class": "mdi:react",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "teenyicons:typescript-solid",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "teenyicons:javascript-solid",
+        "level": "70"
+      },
+      {
+        "name": "NodeJs",
+        "class": "teenyicons:nodejs-solid",
+        "level": "70"
+      },
+            {
+        "name": "Tailwind",
+        "class": "mdi:tailwind",
+        "level": "75"
+      },
+      {
+        "name": "Sass",
+        "class": "la:sass",
+        "level": "75"
+      },
+      {
+        "name": "MySql",
+        "class": "fontisto:mysql",
+        "level": "60"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "simple-icons:postgresql",
+        "level": "60"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Expérience",
+    "experiences": [
+      {
+        "company": "Nicolas Constructions",
+        "title": "Infographiste 2D-3D, Bureau d'étude",
+        "years": "2013-2023",
+        "mainTech": "Communication & Infographies 3D",
+        "mainTechIcon": "tdesign:logo-cinema4d",
+        "technologies": [
+          "Photoshop",
+          "After Effects",
+          "Première Pro",
+          "Cinéma 4d",
+          "Lumion"
+        ]
+      },
+      {
+        "company": "Ecole O'Clock",
+        "title": "Formation Développeur Web et Web Mobile",
+        "years": "11.2023 - 05.2024",
+        "mainTech": "Diplôme Titre Pro DWWM Fullstack obtenu",
+        "mainTechIcon": "mdi:diploma-outline",
+        "technologies": ["HTML 5", "CSS 3", "Javascript", "NodeJs", "Express", "EJS", "React", "TypeScript", "Tailwind", "MySql", "PostgreSQL"]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "content": "Vous avez un projet ou une question ? N'hésitez pas à me contacter.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "send": "Envoyer"
+    }
+  },
+  "copyright": "© Copyright Laurent VICTORIN. Tous droits réservés."
+}
